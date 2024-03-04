@@ -1,0 +1,1 @@
+console.log("Today is \n first day:I ate Idly in the breakfast");
